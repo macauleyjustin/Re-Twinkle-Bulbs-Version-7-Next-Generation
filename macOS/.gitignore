@@ -1,0 +1,14 @@
+# Build & packaged DMG artifacts
+.build/
+.swiftpm/
+build/
+dist/
+*.dmg
+
+# Extracted proprietary reference assets (never redistribute)
+research/
+
+# macOS / Xcode user state
+.DS_Store
+*.xcuserstate
+xcuserdata/

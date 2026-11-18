@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Re: Twinkle Bulbs</string>
+	<key>CFBundleDisplayName</key>
+	<string>Re: Twinkle Bulbs</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>7.0.0</string>
+	<key>CFBundleVersion</key>
+	<string>700</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>$(MACOSX_DEPLOYMENT_TARGET)</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSHumanReadableCopyright</key>
+	<string>Re: Twinkle Bulbs Version 7: Next Generation (v7.0.0) — Freeware Tribute to Don Metzler &amp; Barefoot Productions</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Re: Twinkle Bulbs uses the local network only if you explicitly enable the Developer API or Phone/Tablet Web Remote.</string>
+	<key>NSScreenCaptureUsageDescription</key>
+	<string>Re: Twinkle Bulbs samples only downsampled average screen colors in memory when Ambient Screen Color Sync is explicitly started by you.</string>
+</dict>
+</plist>

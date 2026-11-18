@@ -1,0 +1,13 @@
+.DS_Store
+.build/
+build/
+dist/
+dist-artifacts/
+deb_pack_*/
+build_deb_*/
+research/
+*.dmg
+*.xcuserstate
+xcuserdata/
+__pycache__/
+*.pyc
